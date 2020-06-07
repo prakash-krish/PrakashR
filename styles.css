@@ -1,0 +1,143 @@
+
+body {
+	
+	text-align: center;
+	position: relative;
+	margin: 0px;  
+	font-family: 'Asul', sans-serif,'Merriweather Sans';
+
+}
+
+h1 {
+	margin:0 auto;
+	width: 40%;
+	padding-top: 55px;
+	font-family: 'Sacramento','Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 4.2rem;	
+	color: #10375c;
+	
+}
+.work {
+	color: #1b6ca8;
+	font-size: 1.8rem;
+     margin: 0;
+	
+}
+h2 {
+ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+ font-size: 2.8rem;
+ color: #4d4c7d;
+}
+h3{
+	font-family: 'Acme', sans-serif;
+	font-size: 1.5rem;
+	color: #d9455f;
+}
+p {
+	font-family: 'Asul', sans-serif,'Merriweather Sans';
+	line-height: 2;
+	color: #10375c;
+}
+span{
+	text-decoration:underline;
+}
+
+.top {
+	background-color: #abf0e9;
+}
+
+.mid {
+	
+}
+
+.bot {
+	background-color: #abf0e9;
+	padding: 30px 0 20px;
+}
+.prak{
+	height: 200px;
+	width: 200px;
+} 
+
+.top-cloud {
+	padding-top: 70px;
+	position:absolute;
+	top: 10px;
+	right: 100px;
+}
+
+
+
+.bot-cloud
+{
+	position: absolute;
+	top:300px;
+	left: 100px;
+}
+
+
+.code {
+	width: 40%;
+	float: left;
+	margin-right: 40px;
+	
+}
+
+.vid {
+	width: 40%;
+	float: right;
+	margin-left	: 40px;
+	
+
+}
+.skill-row {
+	width: 50%;
+	margin: 50px auto 60px auto;
+	text-align: left;
+	
+}
+hr {
+	border: dotted 6px #dbc6eb;
+	border-bottom: none;
+	width: 9%;
+	margin: 100px auto;
+    
+}
+a {
+	color:#14396A;
+	margin: 0 10px;
+	text-decoration:none;
+}
+.copyrights {
+	color: #63B8EE;
+	font-size: 13px;
+}
+.testbutton {
+	font-family: georgia;
+	text-decoration: none;
+	font-weight: bold;
+	color: #14396A !important;
+	font-size: 16px;
+	text-shadow: 1px 1px 0px #7CACDE;
+	box-shadow: 1px 1px 1px #4DAFF9;
+	padding: 5px 25px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	border: 2px solid #3866A3;
+	background: #63B8EE;
+	background: linear-gradient(top,  #63B8EE,  #468CCF);
+	background: -ms-linear-gradient(top,  #63B8EE,  #468CCF);
+	background: -webkit-gradient(linear, left top, left bottom, from(#63B8EE), to(#468CCF));
+	background: -moz-linear-gradient(top,  #63B8EE,  #468CCF);
+  }
+  .testbutton:hover {
+	color: #14396A !important;
+	background: #468CCF;
+	background: linear-gradient(top,  #468CCF,  #63B8EE);
+	background: -ms-linear-gradient(top,  #468CCF,  #63B8EE);
+	background: -webkit-gradient(linear, left top, left bottom, from(#468CCF), to(#63B8EE));
+	background: -moz-linear-gradient(top,  #468CCF,  #63B8EE);
+  }
+
+
